@@ -1,0 +1,6 @@
+interface:
+  display_name: "Research Paper Reader"
+  short_description: "精读商科论文，解释核心机制、研究方法与数学推导，并保存可追溯的 Markdown 笔记。"
+  default_prompt: "使用 $research-paper-reader，围绕 Research Problem、Prior Work、Core Intuition 和 Method 讲解指定论文，先在对话中回答。"
+policy:
+  allow_implicit_invocation: false
