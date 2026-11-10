@@ -20,7 +20,11 @@
 
 ### 1. 下载技能
 
-在 GitHub 仓库页面选择 **Code → Download ZIP** 并解压，也可以使用仓库克隆地址下载。找到包含 `SKILL.md` 的文件夹，将其命名为 `research-paper-reader`。
+**[下载 v0.1.0 技能压缩包](https://github.com/longyi61/research-paper-reader/releases/download/v0.1.0/research-paper-reader-0.1.0.zip)** · [查看发布说明](https://github.com/longyi61/research-paper-reader/releases/tag/v0.1.0)
+
+下载 `research-paper-reader-0.1.0.zip` 并解压，即可得到完整的 `research-paper-reader` 文件夹。按下一步将整个文件夹复制到技能目录，保留其中的 `SKILL.md`、`agents/` 和 `references/`。
+
+如需仓库当前版本，也可以选择 **Code → Download ZIP** 或克隆仓库。将下载后的技能文件夹命名为 `research-paper-reader`。
 
 ### 2. 选择安装位置
 
